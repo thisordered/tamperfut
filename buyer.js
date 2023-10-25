@@ -16,6 +16,7 @@
 // @connect     exp.host
 // @connect     on.aws
 // @require     https://code.jquery.com/jquery-3.6.1.min.js
+// @require     https://cdn.statically.io/gh/thisordered/tamperfut/enhancer/enhancer.js
 // @require     https://raw.githubusercontent.com/ckalgos/FUT-Auto-Buyer/main/external/discord.11.4.2.min.js
 // @require     https://greasyfork.org/scripts/47911-font-awesome-all-js/code/Font-awesome%20AllJs.js?version=275337
 // @updateURL   https://github.com/ckalgos/fut-auto-buyer/releases/latest/download/fut-auto-buyer.user.js
